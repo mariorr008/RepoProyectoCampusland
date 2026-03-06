@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "pala",
+        "categoria": "jardineria",
+        "stock": 2,
+        "estado": "Activa",
+        "valor": 10000.0
+    },
+    {
+        "id": 2,
+        "nombre": "pica",
+        "categoria": "construccion",
+        "stock": 5,
+        "estado": "Fuera de servicio",
+        "valor": 90000.0
+    },
+    {
+        "id": 3,
+        "nombre": "martillo",
+        "categoria": "mecanica",
+        "stock": 3,
+        "estado": "Activa",
+        "valor": 21000.0
+    }
+]

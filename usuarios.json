@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "joel",
+        "apellido": "rojas",
+        "telefono": "313444",
+        "direccion": "cra8"
+    },
+    {
+        "id": 2,
+        "nombre": "mario",
+        "apellido": "rojas",
+        "telefono": "2344",
+        "direccion": "cra3"
+    },
+    {
+        "id": 3,
+        "nombre": "yolanda",
+        "apellido": "rangel",
+        "telefono": "38383883",
+        "direccion": "cra 4"
+    }
+]
